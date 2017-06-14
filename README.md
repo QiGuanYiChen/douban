@@ -46,7 +46,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 1. 创建一个新的路由 `ibenchu`
 2. 使用该接口填充数据，数据需要正常展示出来，对样式没有要求 [大陆票房接口](https://apicloud.mob.com/boxoffice/day/query?key=1eae6b9688738&area=CN)
-3. 在该项目的首页（豆瓣）加上跳转到这个页面的方式（不得使用A标签）
+3. 在该项目的首页（豆瓣）加上跳转到这个页面的方式（不得使用A标签跳转）
 
 
 ## 注意事项
