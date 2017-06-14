@@ -54,7 +54,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 1. 该测试需独立完成。
 2. 面试有可能现场写vue代码，请勿抱有侥幸心态。
 
-**完成后请将源码以 `zip/tar.gz/tar.xz` 形式发送到heshudong@ibenchu.com 【注意附带简历**
+**完成后请将源码以 `zip/tar.gz/tar.xz` 形式发送到heshudong@ibenchu.com 【注意附带简历】**
 
 我们将在三个工作日内给出答复
 
