@@ -45,13 +45,25 @@ npm run build
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+===============================================测试题目==========================================
+
 ## 测试题目 （约20分钟完成）
 
 1. 创建一个新的路由 `ibenchu`
-2. 使用该接口填充数据，数据需要正常展示出来，对样式没有要求 [大陆票房](https://apicloud.mob.com/boxoffice/day/query?key=1eae6b9688738&area=CN)
+2. 使用该接口填充数据，数据需要正常展示出来，对样式没有要求 [大陆票房接口](https://apicloud.mob.com/boxoffice/day/query?key=1eae6b9688738&area=CN)
 3. 在该项目的首页（豆瓣）加上跳转到这个页面的方式（不得使用A标签）
 
 
+## 注意事项
+
+1. 该测试需独立完成。
+2. 面试有可能现场写vue代码，请勿抱有侥幸心态。
+
+** 完成后请将源码以 `zip/tar.gz/tar.xz` 形式发送到heshudong@ibenchu.com 【注意附带简历】**
+
+我们将在三个工作日内给出答复
+
+===============================================测试题目============================================
 
 ## 相关技术
 
@@ -63,7 +75,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 - [normalize.css](https://github.com/necolas/normalize.css) :  A collection of HTML element and attribute style-normalizations
 - [vue-scroll-behavior](https://www.npmjs.com/package/vue-scroll-behavior) :  Completely customize the scroll behavior on route navigation
 
-## API
+## 项目中参考API
 
 Douban Api V2
 - Basic URI : `https://api.douban.com/V2/`
