@@ -9,11 +9,6 @@
 
 ### 页面无刷新效果
 
-<p align="center">
-
-[![Build Status](https://travis-ci.org/jeneser/douban.svg?branch=master)](https://travis-ci.org/jeneser/douban) [![David](https://img.shields.io/david/expressjs/express.svg?style=flat-square)](https://github.com/jeneser/douban) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/aa2dd7f4191546258edf6e55464d1962)](https://www.codacy.com/app/jeneser/douban?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jeneser/douban&amp;utm_campaign=Badge_Grade) [![Powered](https://img.shields.io/badge/Powered%20by-vue2%2B-brightgreen.svg)](https://github.com/vuejs/vue) [![Percentage of issues still open](http://isitmaintained.com/badge/open/jeneser/douban.svg)](http://isitmaintained.com/project/jeneser/douban "Percentage of issues still open") [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/jeneser/douban.svg)](http://isitmaintained.com/project/jeneser/douban "Average time to resolve an issue") [![PR](https://img.shields.io/badge/PR-welcome-brightgreen.svg)](https://github.com/jeneser/douban/pulls) [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/jeneser/douban/blob/master/LICENSE)
-
-</p>
 <br>
 
 <p align="center">
@@ -45,7 +40,7 @@ npm run build
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-===============================================测试题目==========================================
+============测试题目==========
 
 ## 测试题目 （约20分钟完成）
 
@@ -63,7 +58,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 我们将在三个工作日内给出答复
 
-===============================================测试题目============================================
+===============测试题目===================
 
 ## 相关技术
 
