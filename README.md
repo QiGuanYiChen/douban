@@ -1,12 +1,13 @@
-<p align="center">
-	<img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_logo.png">
-</p>
+
+## 陕西本初网络科技有限公司前端测试题
 
 <br>
 
 <p align="center">
-Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
+公司使用了大量SPA单页web应用技术，需要对vue2 webpack  npm 有较为深入的了解。
 </p>
+
+### 页面无刷新效果
 
 <p align="center">
 
@@ -27,27 +28,6 @@ Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
 	 <strong><a href="https://jeneser.github.io/douban/">Live Demo</a></strong>
 </p>
 
-## Features
-
-- Vue + vue-router + vuex + Superagent working together
-- Vuex divide store into modules
-- Modern JavaScript syntax with ES6
-- vue-cli webpack template
-- Single-file Vue Components
-- API request seperated
-- Real remote API and some mock data
-- eslint linter integration
-- Hot-reload in development
-- Css with Sass
-- No third party CSS framework
-- Complex and different style view logic
-- Infinite loading list
-- Complete search logic
-- Custom components like List, Rating, Tags ...
-- Authentication with JSON Web Tokens
-- Complete register login logic
-......
-
 
 ## Build Setup
 
@@ -65,7 +45,15 @@ npm run build
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## Libraries
+## 测试题目 （约20分钟完成）
+
+1. 创建一个新的路由 `ibenchu`
+2. 使用该接口填充数据，数据需要正常展示出来，对样式没有要求 [大陆票房](https://apicloud.mob.com/boxoffice/day/query?key=1eae6b9688738&area=CN)
+3. 在该项目的首页（豆瓣）加上跳转到这个页面的方式（不得使用A标签）
+
+
+
+## 相关技术
 
 - [Vuex](https://vuex.vuejs.org) : Centralized State Management for Vue.js
 - [Vue-router](http://router.vuejs.org/) : The official router for Vue.js
@@ -106,7 +94,7 @@ Mock Douban Backend
 
 For detailed explanation, checkout the [Douban Api V2](https://developers.douban.com/wiki/?title=api_v2) and [Douban Backend](https://github.com/jeneser/douban-backend)
 
-## File Structure
+## 目录
 ```
 .
 ├── build
@@ -181,11 +169,3 @@ For detailed explanation, checkout the [Douban Api V2](https://developers.douban
     └── logo.png
 ```
 
-## Change log
-
-- May 28, 2017:
-  - Using superagent
-
-## License
-
-[MIT](https://github.com/jeneser/douban/blob/master/LICENSE) Copyright (c) 2017 Jeneser
