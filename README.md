@@ -14,9 +14,6 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_home.gif" >
     <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_movie.gif" >
-    <br>
-     <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_login.gif" >
-    <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_search.gif" >
     <br><br>
     <strong>......</strong>
     <br>
@@ -40,7 +37,7 @@ npm run build
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-============测试题目==========
+===============测试题目================
 
 ## 测试题目 （约20分钟完成）
 
