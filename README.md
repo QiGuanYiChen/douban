@@ -39,7 +39,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ===============测试题目================
 
-## 测试题目 （约20分钟完成）
+## 测试题目 
 
 1. 创建一个新的路由 `ibenchu`
 2. 使用该接口填充数据，数据需要正常展示出来，对样式没有要求 [大陆票房接口](https://mobapi.ibenchu.pw/boxoffice/day/query?key=1eae6b9688738&area=CN)
